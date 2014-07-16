@@ -3,7 +3,7 @@
     "title": "Brackets dark main toolbar",
     "description": "Stupid extension that makes the main toolbar dark as the rest of the Brackets UI",
     "homepage": "https://github.com/FezVrasta/brackets-darkbar",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "author": "Fez Vrasta <info@mywebexpression.com> (http://www.mywebexpression.com)",
     "license": "MIT",
     "engines": {
