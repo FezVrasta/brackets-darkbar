@@ -9,5 +9,5 @@
     "engines": {
         "brackets": ">=0.24.0"
     },
-    "keywords": ["style", "dark", "theme", "sidebar", "toolbar", "main toolbar"]
+    "keywords": ["dark", "sidebar", "toolbar", "main toolbar"]
 }
